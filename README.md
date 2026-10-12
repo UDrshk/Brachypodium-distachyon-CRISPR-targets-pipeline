@@ -1,4 +1,4 @@
-# -Brachypodium-distachyon-CRISPR-targets-pipeline
+# Brachypodium-distachyon-CRISPR-targets-pipeline
 Pipeline for target definition for Brachypodium distachyon CRISPR
 
 # Platforms used
